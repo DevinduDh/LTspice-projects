@@ -35,7 +35,6 @@ The output load of DUT is varied by changing size of inverter.
 
 ![Screenshot 2024-01-30 181613](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8ecc8473-b903-43bb-9730-1ae9237e142a)
 
-![Screenshot 2024-01-30 180919](https://github.com/DevinduDh/LTspice-projects/assets/76746921/1446cfb6-5221-436f-9152-6ea99ca29705)
 
 
 
@@ -45,11 +44,6 @@ The output load of DUT is varied by changing size of inverter.
 
 
 
-
-
-
-![Screenshot 2024-01-30 105201](https://github.com/DevinduDh/LTspice-projects/assets/76746921/c6d04019-da7e-4e96-b30f-60e1cbd83618)
-![Screenshot 2024-01-30 105122](https://github.com/DevinduDh/LTspice-projects/assets/76746921/9c4146ff-e0c6-4972-bbeb-f324436e1d2b)
 
 
 
