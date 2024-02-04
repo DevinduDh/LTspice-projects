@@ -32,10 +32,10 @@ Input slew at node C was varied by a capacitor at node C.
 The output load of DUT is varied by changing size of inverter.
 Slew A            |  Sl
 :-------------------------:|:-------------------------:
-![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/530bbcd6-3aa0-4b47-9876-837cf63ef8ce)  |  ![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8ecc8473-b903-43bb-9730-1ae9237e142a)
+![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/530bbcd6-3aa0-4b47-9876-837cf63ef8ce)  |  ![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0fdbfab2-80e8-4daa-9336-04ee14957281)
 
-![Screenshot 2024-01-30 181636]()
-![Screenshot 2024-01-30 181707](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0fdbfab2-80e8-4daa-9336-04ee14957281)
+![Screenshot 2024-01-30 181636](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8ecc8473-b903-43bb-9730-1ae9237e142a)
+![Screenshot 2024-01-30 181707]()
 
 ![Screenshot 2024-01-30 181613]()
 
