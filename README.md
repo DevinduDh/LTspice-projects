@@ -20,8 +20,8 @@ Multiplier = 4
 Input slew at A is varied by varying the rise time and fall time of the pulse signal
 Slew A vaues          |  Slew C vaues          
 :-------------------------:|:-------------------------:
-![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/99c5f794-d6f4-4411-9aa0-1ddfe0c0a583)  |  ![](![Screenshot 2024-01-30 180040](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8cf7f54a-d1d7-4a50-9bf1-41e6d6316748)
-) 
+![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/99c5f794-d6f4-4411-9aa0-1ddfe0c0a583)  |  ![Screenshot 2024-01-30 180040](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8cf7f54a-d1d7-4a50-9bf1-41e6d6316748)
+
 
 ![Screenshot 2024-01-30 110120](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0ee3b557-18d2-4162-8c9b-4ae81886a424)
 
