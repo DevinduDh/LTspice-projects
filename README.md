@@ -14,9 +14,11 @@ NMOS width = 0.2 µm
 Multiplier = 4
 
 ## Calculating rising, falling propagation delay, output rise and fall time of the device under test (DUT)
-
-
-
+![Screenshot 2024-01-30 104825](https://github.com/DevinduDh/LTspice-projects/assets/76746921/63505c33-52ad-417a-ada8-0beb59eed409)
+![Screenshot 2024-01-30 105741](https://github.com/DevinduDh/LTspice-projects/assets/76746921/a0be0661-877e-4bf6-9804-8215652daefa)
+## Sweeping the input slew at node “a” and measure input slew at node “c”.
+Input slew at A is varied by varying the rise time and fall time of the pulse signal
+![Screenshot 2024-01-30 175928](https://github.com/DevinduDh/LTspice-projects/assets/76746921/99c5f794-d6f4-4411-9aa0-1ddfe0c0a583)
 
 ![Screenshot 2024-01-30 181932](https://github.com/DevinduDh/LTspice-projects/assets/76746921/c8dbe49b-74aa-4732-beaf-09f49256e79a)
 ![Screenshot 2024-01-30 181707](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0fdbfab2-80e8-4daa-9336-04ee14957281)
@@ -27,11 +29,11 @@ Multiplier = 4
 ![Screenshot 2024-01-30 180717](https://github.com/DevinduDh/LTspice-projects/assets/76746921/19e5a566-ae5e-4d2d-8a16-c98093157110)
 ![Screenshot 2024-01-30 180336](https://github.com/DevinduDh/LTspice-projects/assets/76746921/a44e153a-78fb-4267-aa53-87903f7c7cae)
 ![Screenshot 2024-01-30 180040](https://github.com/DevinduDh/LTspice-projects/assets/76746921/3f2da1a7-4ab1-41e7-af99-c1e003c771b9)
-![Screenshot 2024-01-30 175928](https://github.com/DevinduDh/LTspice-projects/assets/76746921/99c5f794-d6f4-4411-9aa0-1ddfe0c0a583)
+
 ![Screenshot 2024-01-30 110120](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0ee3b557-18d2-4162-8c9b-4ae81886a424)
-![Screenshot 2024-01-30 105741](https://github.com/DevinduDh/LTspice-projects/assets/76746921/a0be0661-877e-4bf6-9804-8215652daefa)
+
 ![Screenshot 2024-01-30 105201](https://github.com/DevinduDh/LTspice-projects/assets/76746921/c6d04019-da7e-4e96-b30f-60e1cbd83618)
 ![Screenshot 2024-01-30 105122](https://github.com/DevinduDh/LTspice-projects/assets/76746921/9c4146ff-e0c6-4972-bbeb-f324436e1d2b)
-![Screenshot 2024-01-30 104825](https://github.com/DevinduDh/LTspice-projects/assets/76746921/63505c33-52ad-417a-ada8-0beb59eed409)
+
 ![Screenshot 2024-01-30 102557](https://github.com/DevinduDh/LTspice-projects/assets/76746921/6f74168a-36cb-49ce-adfa-6ff785cc4bc0)
 
