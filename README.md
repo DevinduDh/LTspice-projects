@@ -26,17 +26,21 @@ Input slew at A is varied by varying the rise time and fall time of the pulse si
 Input slew at node C was varied by a capacitor at node C.
 ![Screenshot 2024-01-30 180336](https://github.com/DevinduDh/LTspice-projects/assets/76746921/a44e153a-78fb-4267-aa53-87903f7c7cae)
 ![Screenshot 2024-01-30 180840](https://github.com/DevinduDh/LTspice-projects/assets/76746921/1f730c0a-a65c-409a-bc46-b1aba3c08d84)
+![Screenshot 2024-01-30 180717](https://github.com/DevinduDh/LTspice-projects/assets/76746921/19e5a566-ae5e-4d2d-8a16-c98093157110)
+
+## Sweep the output load of DUT. The out load can be of 1 to 6 inverter loads in the step of 1 inverter. Plot the output load versus rising, falling propagation delay, output rise and fall time of DUT.
+The output load of DUT is varied by changing size of inverter.
+![Screenshot 2024-01-30 181636](https://github.com/DevinduDh/LTspice-projects/assets/76746921/530bbcd6-3aa0-4b47-9876-837cf63ef8ce)
+![Screenshot 2024-01-30 181613](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8ecc8473-b903-43bb-9730-1ae9237e142a)
+
 ![Screenshot 2024-01-30 180919](https://github.com/DevinduDh/LTspice-projects/assets/76746921/1446cfb6-5221-436f-9152-6ea99ca29705)
 ![Screenshot 2024-01-30 181707](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0fdbfab2-80e8-4daa-9336-04ee14957281)
 
 
 ![Screenshot 2024-01-30 181932](https://github.com/DevinduDh/LTspice-projects/assets/76746921/c8dbe49b-74aa-4732-beaf-09f49256e79a)
 
-![Screenshot 2024-01-30 181636](https://github.com/DevinduDh/LTspice-projects/assets/76746921/530bbcd6-3aa0-4b47-9876-837cf63ef8ce)
-![Screenshot 2024-01-30 181613](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8ecc8473-b903-43bb-9730-1ae9237e142a)
 
 
-![Screenshot 2024-01-30 180717](https://github.com/DevinduDh/LTspice-projects/assets/76746921/19e5a566-ae5e-4d2d-8a16-c98093157110)
 
 
 
