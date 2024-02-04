@@ -18,8 +18,10 @@ Multiplier = 4
 ![Screenshot 2024-01-30 105741](https://github.com/DevinduDh/LTspice-projects/assets/76746921/a0be0661-877e-4bf6-9804-8215652daefa)
 ## Sweeping the input slew at node “a” and measure input slew at node “c”.
 Input slew at A is varied by varying the rise time and fall time of the pulse signal
-![Screenshot 2024-01-30 175928](https://github.com/DevinduDh/LTspice-projects/assets/76746921/99c5f794-d6f4-4411-9aa0-1ddfe0c0a583)
-![Screenshot 2024-01-30 180040](https://github.com/DevinduDh/LTspice-projects/assets/76746921/3f2da1a7-4ab1-41e7-af99-c1e003c771b9)
+Slew A vaues          |  Slew C vaues          
+:-------------------------:|:-------------------------:
+![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/99c5f794-d6f4-4411-9aa0-1ddfe0c0a583)  |  ![]([https://github.com/DevinduDh/LTspice-projects/assets/76746921/0fdbfab2-80e8-4daa-9336-04ee14957281](https://github.com/DevinduDh/LTspice-projects/assets/76746921/3f2da1a7-4ab1-41e7-af99-c1e003c771b9))
+
 ![Screenshot 2024-01-30 110120](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0ee3b557-18d2-4162-8c9b-4ae81886a424)
 
 ## The input slew at node “c” are {20, 30, 40, 50, 100, 200, 250}ps. Plot the input slew at node “c” versus rising, falling propagation delay, output rise and fall time of DUT. 
