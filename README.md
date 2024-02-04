@@ -17,7 +17,7 @@ Multiplier = 4
 
 
 
-![graphs1](https://github.com/DevinduDh/LTspice-projects/assets/76746921/6b1a716f-6030-4e4d-8195-b60935b99b8f)
+
 ![Screenshot 2024-01-30 181932](https://github.com/DevinduDh/LTspice-projects/assets/76746921/c8dbe49b-74aa-4732-beaf-09f49256e79a)
 ![Screenshot 2024-01-30 181707](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0fdbfab2-80e8-4daa-9336-04ee14957281)
 ![Screenshot 2024-01-30 181636](https://github.com/DevinduDh/LTspice-projects/assets/76746921/530bbcd6-3aa0-4b47-9876-837cf63ef8ce)
