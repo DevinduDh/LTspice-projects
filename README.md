@@ -38,14 +38,49 @@ Varying PMOS size            |  Varying NMOS size
 ![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/530bbcd6-3aa0-4b47-9876-837cf63ef8ce)  |  ![](https://github.com/DevinduDh/LTspice-projects/assets/76746921/0fdbfab2-80e8-4daa-9336-04ee14957281)
 
 ![Screenshot 2024-01-30 181636](https://github.com/DevinduDh/LTspice-projects/assets/76746921/8ecc8473-b903-43bb-9730-1ae9237e142a)
-
-
-
-
-
-
-
 ![Screenshot 2024-01-30 181932](https://github.com/DevinduDh/LTspice-projects/assets/76746921/c8dbe49b-74aa-4732-beaf-09f49256e79a)
+
+Python Script to plot graphs for propagation delays fall and rise, transition rise, transition fall directly from the netlist file.
+```
+import matplotlib.pyplot as plt
+
+# Initialize lists to store data
+slewc = []
+trrise = []
+trfall = []
+rise_delay = []
+fall_delay = []
+
+# Read data from the text file
+with open('output_values.txt', 'r') as file:
+    current_list = None
+    for line in file:
+        line = line.strip()
+        if line == 'slewc':
+            current_list = slewc
+        elif line == 'trrise':
+            current_list = trrise
+        elif line == 'trfall':
+            current_list = trfall
+        elif line == 'rise_delay':
+            current_list = rise_delay
+        elif line == 'fall_delay':
+            current_list = fall_delay
+        else:
+            if current_list is slewc:  # Check if current list is slewc
+                current_list.append(float(line) * 1e12)  # Convert seconds to picoseconds
+            else:
+                current_list.append(float(line))
+# Plot the data
+plt.plot(slewc, trrise, label='trrise')
+plt.plot(slewc, trfall, label='trfall')
+plt.plot(slewc, rise_delay, label='rise_delay')
+plt.plot(slewc, fall_delay, label='fall_delay')
+plt.xlabel('slewc (ps)')
+plt.ylabel('Values')
+plt.legend()
+plt.show()
+```
 
 
 
