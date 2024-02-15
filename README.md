@@ -1,4 +1,7 @@
 # LTspice-projects
+
+[Gate Delay Characterization](gate_delay_characterization.md)
+
 ![Screenshot 2024-02-03 233827](https://github.com/DevinduDh/LTspice-projects/assets/76746921/6350ba8d-d0ab-436c-855f-a9477e3a8c2b)
 
 ## Schematic
